@@ -41,7 +41,7 @@ For example, if I enter **H-Darji** in the textbox and hit OK, then it will fetc
 <img src="https://f4e7137fefea07b0fae4c8ffd7320e68e7aa0823-www.googledrive.com/host/0B9svjAuZEeT4YVM3M1hzdGVxUzQ/ga3.jpg">
 
 For more information about **`Octokit.net`**:
-- <a href="https://github.com/octokit/octokit.net" target="_blank">Octokit.net on GitHub</a>
-- <a href="http://octokitnet.readthedocs.io/en/latest/" target="_blank">Octokit.net Documention</a>
+- <a href="https://github.com/octokit/octokit.net">Octokit.net on GitHub</a>
+- <a href="http://octokitnet.readthedocs.io/en/latest/">Octokit.net Documention</a>
 
 ###### Thank you for visit.
