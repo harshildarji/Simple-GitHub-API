@@ -58,5 +58,19 @@ namespace Simple_GitHub_API
                 }
             }
         }
+
+        protected override bool ProcessDialogKey(Keys keyData)
+        {
+            switch(keyData)
+            {
+                case Keys.Escape:
+                    this.Close();
+                    break;
+                case Keys.Enter:
+                    button1.PerformClick();
+                    break;
+            }
+            return base.ProcessDialogKey(keyData);
+        }
     }
 }
