@@ -1,10 +1,6 @@
 # Simple GitHub API
 I used **GitHub API** for **.NET** (**Octokit.net**) to demonstrate the basic use of GitHub API in **Windows Form Applications** in **C#.NET**.<br>
 
->Initially, My Windows Form application looks like:
-
-<img src="https://f4e7137fefea07b0fae4c8ffd7320e68e7aa0823-www.googledrive.com/host/0B9svjAuZEeT4YVM3M1hzdGVxUzQ/ga1.jpg">
-
 Enter appropriate **GitHub user name** in the textbox and hit **OK**.<br>
 Code to get information of the user works as follows:
 
@@ -35,10 +31,6 @@ label1.Text = "Name: " + user.Name
 ```
 
 For example, if I enter **H-Darji** in the textbox and hit OK, then it will fetch basic information of the user **H-Darji** from the database and displays it in the form as follow:
-
->Example: Information of user H-Darji:
-
-<img src="https://f4e7137fefea07b0fae4c8ffd7320e68e7aa0823-www.googledrive.com/host/0B9svjAuZEeT4YVM3M1hzdGVxUzQ/ga3.jpg">
 
 For more information about **`Octokit.net`**:
 - <a href="https://github.com/octokit/octokit.net">Octokit.net on GitHub</a>
